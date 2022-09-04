@@ -1,6 +1,7 @@
 # Getting and Cleaning Data Week 4 Project
-This repo is all about the course project on Getting and Clenaing data. 
-This code contains CodeBook.md, readme.md, run_analysis.R R file and tidySet.txt text file.
+This repo is all about the course project on Getting and Clenaing data.   
+
+This repository contains CodeBook.md, readme.md, run_analysis.R R file and tidySet.txt text file.
 ## Files:
 CodeBook.md demonstrates how to use all this, variables, the data, and any transformations  that was performed to clean up the data.
 
